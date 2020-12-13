@@ -1,0 +1,110 @@
+h1{
+    background-color:rgb(231, 231, 224);  
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border:1px solid;
+
+}
+table{
+    text-align: center;
+    border-spacing: 2px;
+    width: 100%;
+    font-family: 	Arial, Verdana, sans-serif;
+	font-size:	10px;
+
+}
+td{
+    border: 1px solid rgb(168, 168, 159);
+    width: 5%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#Noborder{
+    border: none;
+    background-color: white;
+}
+sup{
+    font-size: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#AtomicNumber{
+font-size: 14px;
+}
+b{
+    font-size:15px;
+}
+.Nonmetal{
+    background-color: rgba(233, 228, 235, 0.432);
+}
+.Actinide{
+    background-color: rgba(30, 177, 214, 0.452);
+}
+.Lanthanide{
+    background-color: rgba(215, 151, 218, 0.404);
+}
+.NobleGas{
+    background-color: rgba(255, 160, 51, 0.295);
+}
+.Alkalimetal{
+    background-color: rgba(183, 183, 224, 0.418);
+}
+.AlkalineEarthmetal{
+    background-color: rgba(245, 202, 142, 0.466);
+}
+.Metalloid{
+    background-color: rgba(234, 154, 241, 0.459);
+}
+.Halogen{
+    background-color: rgba(255, 1, 1, 0.158);
+}
+.PostTransitionMetal{
+    background-color: rgba(154, 136, 184, 0.356);
+}
+.TransitionMetal{
+    background-color: rgba(224, 248, 7, 0.356);
+}
+legend{
+    color:red;
+}
+#Group{
+    color:rgb(36, 4, 177);
+    font-size: 10px;
+}
+fieldset{
+    border: 1.5px solid gray;
+}
+#MetalloidGroup{
+    color: rgb(123, 38, 131);
+}
+#NonmetalGroup{
+   color: rgb(102, 5, 141);
+}
+#LanthanideGroup{
+    color: rgb(128, 30, 133);
+}
+#NobelGasGroup{
+    color: rgba(145, 91, 29, 0.986);
+}
+#ActinideGroup{
+    color:rgb(17, 99, 119);
+}
+}
+#HalogenGroup{
+    color:rgba(119, 19, 19, 0.918);
+}
+#AlkaliMetalGroup{
+    color: rgb(23, 23, 126);
+}
+#AlkalineEarthGroup{
+    color: brown;
+}
+#PosttransitionGroup{
+    color:  rgb(81, 59, 116);
+}
+    
+#TransitionMetalgroup{
+    color:rgb(118, 129, 14);
+}
